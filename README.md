@@ -1,4 +1,7 @@
-thanksgiving
-============
+### [[Shopping List]]
 
-Thanksgiving!
+### [[Prep Night Before]]
+* [[Pecan Pies]]
+
+### [[Schedule]] on the day of!
+* [[Gravy]]

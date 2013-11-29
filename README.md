@@ -1,7 +1,1 @@
-### [[Shopping List]]
-
-### [[Prep Night Before]]
-* [[Pecan Pies]]
-
-### [[Schedule]] on the day of!
-* [[Gravy]]
+# You want [the wiki](https://github.com/sudara/thanksgiving/wiki)
